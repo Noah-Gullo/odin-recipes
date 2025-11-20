@@ -1,5 +1,8 @@
 # Odin Recipes
 
+## Link
+https://noah-gullo.github.io/odin-recipes/ 
+
 ## About the Odin Project
 https://www.theodinproject.com/about
 
